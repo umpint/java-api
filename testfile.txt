@@ -1,0 +1,7 @@
+this is a file to sign.
+Make some random changes/additions to it
+so when you test it is unique.
+If not you will get a "duplicate hash" error.
+
+In the realy world this would be a statement or other important document
+that users may want to authenticate came from you.
